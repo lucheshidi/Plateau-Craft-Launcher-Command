@@ -34,6 +34,6 @@ PTCL 是一个免费的 Minecraft 启动器。
 
 6.现在你可以打开 git bash 到 Plateau-Craft-Launcher-common 文件夹，输入“mvn clean package”
 
-7.转到新文件夹的 “target” 文件夹，会有一个 Jar 文件，使用java -jar ./*.jar <options> <command[args]>来运行plateau-common
+7.转到新文件夹的 “target” 文件夹，会有一个 Jar 文件，使用java -jar ./*.jar [options] [command(args)]来运行plateau-common
 
 ## 谢谢~
