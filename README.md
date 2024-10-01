@@ -34,6 +34,6 @@ you can in my issues to send bugs or give our some helps
 
 6.Now you can open the git bash to the new folder, input"mvn clean package".
 
-7.go to new dirctory's target folder, will be a Jar File and now you can use plateau launcher.
+7.go to new dirctory's target folder, will be a Jar File and now you can use cmd: java -jar ./*.jar [options] [commands(args)]
 
 ## Thanks~
